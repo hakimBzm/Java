@@ -1,0 +1,2 @@
+Il s'agit d'un programme console codé en Java, simulant l'interaction entre un utilisateur et un distributeur de billet.
+L'utilisateur doit entrer ses informations personnelles qui seront stockés. L'utilisateur est ensuite rediriger vers un menu lui permetant d'ajouter de l'argent, retirer de l'argent, conulter ses comptes ou quitter l'interface utilisateur.
